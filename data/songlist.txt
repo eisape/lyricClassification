@@ -1,0 +1,12 @@
+Jolene, Dolly Parton
+Wanted You, Nav
+<<<<<<< HEAD
+Can I Kick It?, A Tribe Called Quest
+Feel No Ways, Drake
+To Zion, Lauryn Hill
+
+=======
+Gorgeous, Taylor
+White Christmas, child
+White Christmas, bing
+>>>>>>> ae4918955532fcb203116f262442ebd24872fb16
