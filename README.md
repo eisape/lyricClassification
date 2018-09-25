@@ -1,7 +1,7 @@
 # Song Lyric Genre Classifier
 A Deep Learning Approach to Genre Classification
 
-Final project for Artificial Intelligence (Professor Sergio Alvarez, Boston College) Tiwalayo Eisape and Shaan Bijwadia
+Final project for Artificial Intelligence (Professor Sergio Alvarez, Boston College) by Tiwalayo Eisape and Shaan Bijwadia
 
 This repository contains Python code to collect and assemble a large dataset of song information using web APIs, and the construction of a neural network for automated classification of songs by genre based on their lyrics.
 
